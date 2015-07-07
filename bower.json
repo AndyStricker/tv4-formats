@@ -13,7 +13,9 @@
     "mocha": "^2.1.0"
   },
   "moduleType": [
-    "node"
+    "node",
+    "amd",
+    "globals"
   ],
   "keywords": [
     "json",
